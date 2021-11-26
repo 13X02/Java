@@ -1,3 +1,5 @@
+//program that accepts two integer input and perform summation
+
 import java.util.Scanner;
 
 public class Sum {
